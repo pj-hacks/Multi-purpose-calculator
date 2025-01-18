@@ -13,11 +13,7 @@
 #include "utility.h"
 
 int main() {
-  int sum,
-  subnum,
-  selection = 0,
-  result;
-  int first = 1;
+  int selection = 0;
   char agree;
 
 
